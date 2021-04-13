@@ -5,5 +5,5 @@ typedef size_t size_type;
 int main() {
     size_type i = 0;
     std::cout << i - 1 << std::endl;
-    return 0;
+    return 0;  
 }
